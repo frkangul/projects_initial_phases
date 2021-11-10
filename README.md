@@ -1,2 +1,2 @@
 # project
-initial phase
+initial phases for projects
