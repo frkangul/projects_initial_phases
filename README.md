@@ -1,2 +1,2 @@
 # project
-initial phases for projects
+initial phases for projects in jupyter environment
